@@ -1,0 +1,33 @@
+.great {
+    background-color: rgba(197, 114, 20, 0.856);
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+h3 {
+    font-family: sans-serif;
+    color: rgba(228, 173, 33, 0.932);
+    font-size: 50px;
+    text-align: center;
+}
+
+.ideal {
+    margin: 10px;
+    border-style: solid;
+    border-color: black;
+}
+
+button {
+    margin-left: 1400px;
+    color: rgba(184, 41, 41, 0.911);
+    background-color: blue;
+}
+
+.fi {
+    text-align: center;
+    color: maroon;
+}
+
+p.about::first-letter {
+    font-size: 40px;
+}
